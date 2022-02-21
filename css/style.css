@@ -1,1 +1,6 @@
-####hello##
+.jumbotron {
+  color:aliceblue;
+    background-image: url("../images/gutbacteria.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
